@@ -163,7 +163,7 @@ def download_blobs_from_folder(container_name, folder_name, connection_string, l
         print(f"Downloaded {blob.name} to {local_file_path}")
 
 # Constants
-CONNECTION_STRING = "DefaultEndpointsProtocol=https;AccountName=aisa0101;AccountKey=rISVuOQPHaSssHHv/dQsDSKBrywYnk6bNuXuutl4n+ILZNXx/CViS50NUn485kzsRxd5sfiVSsMi+AStga0t0g==;EndpointSuffix=core.windows.net"
+CONNECTION_STRING = ""
 CONTAINER_NAME = "aibot"
 LOCAL_FOLDER_PATH = "folder1"  # Set your local folder path here
 
