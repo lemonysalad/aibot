@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'aibottest1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F09428AF1D844375A5AED144253D80A3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_78E07D71B3E44FA1919E2B8F62598984 }}
